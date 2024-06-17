@@ -20,10 +20,10 @@
 
     if (window.pageYOffset > sticky) {
       header_navbar.classList.add("sticky");
-      logo.src = "assets/img/logo/logo-2.png";
+      // logo.src = location.host + "assets/img/logo/logo-2.png";
     } else {
       header_navbar.classList.remove("sticky");
-      logo.src = "assets/img/logo/logo.png";
+      // logo.src = location.host + "assets/img/logo/logo.png";
     }
 
     // show or hide the back-top-top button
