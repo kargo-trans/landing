@@ -6,4 +6,4 @@ Allow: /
 Disallow: /privacy-policy
 Disallow: /terms-and-conditions/
 
-Sitemap: https://www.kargotr.com/sitemap.xml
+Sitemap: https://kargotr.com/sitemap.xml
